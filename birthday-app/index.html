@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday Celebration</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;400;500;600;700&family=Great+Vibes&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/globals.css">
+</head>
+<body>
+  <div id="floating-elements"></div>
+  <div class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-title">Happy Birthday</h1>
+      <div class="hero-subtitle">Celebrating a Special Day</div>
+      <div class="hero-message">
+        <p>Someone special whom I love the most was born on this day.</p>
+        <p>Four years of beautiful memories, love, and togetherness.</p>
+      </div>
+      <button class="cta-button" onclick="revealSurprise()">Discover the Celebration</button>
+    </div>
+  </div>
+
+  <div class="container" id="main-content" style="display: none;">
+    <div class="celebration-intro">
+      <h2>A Day of Love & Celebration</h2>
+      <p class="intro-text">Every moment with you has been a treasure. Today, we celebrate not just another year, but the beautiful journey we've shared together.</p>
+    </div>
+
+    <div class="milestone-section">
+      <div class="milestone-card">
+        <div class="milestone-icon">🎂</div>
+        <h3>Birthday Wishes</h3>
+        <p>Heartfelt messages crafted just for you</p>
+        <button class="milestone-btn" onclick="window.location.href='wishes.html'">Read Wishes</button>
+      </div>
+      <div class="milestone-card">
+        <div class="milestone-icon">💝</div>
+        <h3>Our Memories</h3>
+        <p>Cherished moments captured in time</p>
+        <button class="milestone-btn" onclick="window.location.href='memory.html'">View Memories</button>
+      </div>
+      <div class="milestone-card">
+        <div class="milestone-icon">💌</div>
+        <h3>Share Your Love</h3>
+        <p>Send a special message back</p>
+        <button class="milestone-btn" onclick="window.location.href='reply.html'">Send Message</button>
+      </div>
+    </div>
+
+    <div class="anniversary-note">
+      <p>4 years of love, laughter, and beautiful memories together.</p>
+      <p>Thank you for being the most amazing person in my life.</p>
+    </div>
+  </div>
+
+  <script src="scripts/index.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,939 @@
+[00:00:01.125] Server  LOG      ✓ Ready in 750ms
+[00:02:11.413] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:02:11.891] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:02:16.424] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:02:39.536] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:02:39.710] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:02:39.710] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:02:40.318] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:02:40.319] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:03:45.916] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:03:46.111] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:03:46.111] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:03:46.300] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:03:46.300] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:03:46.301] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:03:46.301] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:13.878] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:13.879] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:13.879] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:13.885] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:13.898] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:13.921] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:14.010] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:14.011] Server  WARN     ⚠ Fast Refresh had to perform a full reload when [hmr-entry]/hmr-entry.js { ENTRY => "[project]/birthday-app/pages/_app" } changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:14.014] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:14.015] Server  WARN     ⚠ Fast Refresh had to perform a full reload when [hmr-entry]/hmr-entry.js { ENTRY => "[project]/birthday-app/pages/_app" } changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:14.016] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:14.017] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:14.018] Server  WARN     ⚠ Fast Refresh had to perform a full reload when [hmr-entry]/hmr-entry.js { ENTRY => "[project]/birthday-app/pages/_app" } changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:14.018] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:14.137] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:14.795] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:06:14.816] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:06:14.849] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:06:15.110] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./birthday-app/pages/_app.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:15.113] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.113] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.113] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.115] Server  LOG      ✓ Compiled in 38ms
+[00:06:15.116] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./birthday-app/pages/_app.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:15.117] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.117] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.117] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.125] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./birthday-app/pages/_app.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:15.143] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.143] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.143] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:15.588] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:06:15.622] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:06:15.634] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+
+
+[00:06:16.296] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:16.296] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:16.296] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:16.296] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:16.297] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:06:16.297] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:13:04.658] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:13:04.663] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[00:13:05.293] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:51.301] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:51.301] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:51.301] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:52.304] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:52.304] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:52.304] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:52.304] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:52.304] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[17:00:52.304] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[24:21:54.787] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[24:21:54.788] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[24:21:54.788] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[24:21:54.788] Browser ERROR   ./birthday-app/pages/index.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/index.js
+Import path: ../styles/globals.css
+[24:22:28.892] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[24:22:28.894] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[24:22:29.112] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.115] Server  ERROR   Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.120] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.121] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.123] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.124] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.126] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[24:22:29.127] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[24:22:29.196] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.196] Server  ERROR   Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.198] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.198] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.200] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.201] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.238] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.238] Server  ERROR   Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.241] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.242] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.244] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:22:29.245] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.381] Browser ERROR   uncaughtError: Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:22:29.522] Browser ERROR   uncaughtError: Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:58:47.220] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:58:47.220] Server  ERROR   Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:58:47.223] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:58:47.223] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:58:47.225] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:58:47.225] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:58:47.475] Browser ERROR   uncaughtError: Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:59:07.885] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:59:07.885] Server  ERROR   Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:59:07.887] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:59:07.887] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:59:07.889] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[24:59:07.889] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[24:59:08.190] Browser ERROR   uncaughtError: Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[25:35:27.619] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[25:35:27.619] Server  ERROR   Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[25:35:27.620] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[25:35:27.621] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[25:35:27.621] Server  ERROR   D:\Iru's Birthday\birthday-app\.next\dev\server\chunks\ssr\03047_6e4d5627._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[25:35:27.622] Server  ERROR    ⨯ Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[25:35:27.748] Browser ERROR   uncaughtError: Error: Invalid <Link> with <a> child. Please remove <a> or use <Link legacyBehavior>.
+Learn more: https://nextjs.org/docs/messages/invalid-new-link-with-extra-anchor
+[25:35:51.073] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[25:35:51.074] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[25:35:51.132] Server  ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[25:35:51.141] Server  LOG      ✓ Compiled in 11ms
+[26:02:55.309] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[29:16:28.279] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[29:16:28.426] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[29:16:32.186] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:32.187] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:32.302] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:32.302] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:32.302] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:32.303] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:45.365] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:45.400] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:45.543] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:45.558] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:45.558] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:46.304] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:46.304] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:46.304] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:46.304] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:49.311] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:49.459] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:49.459] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:50.069] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:50.096] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:50.211] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:50.239] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:50.370] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:50.398] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:50.551] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:50.579] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:50.693] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:50.815] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:50.815] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:50.957] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:51.021] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:51.022] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:51.176] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:51.312] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:51.312] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.294] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:52.295] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:57.644] Browser ERROR   uncaughtError: Error: ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+
+
+[29:16:57.799] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:16:57.799] Browser ERROR   ./birthday-app/pages/wishes.js
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: birthday-app/pages/wishes.js
+Import path: ../styles/globals.css
+[29:18:08.383] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[29:18:08.403] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[29:18:08.474] Server  LOG      ✓ Compiled in 25ms
+[29:19:27.179] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components
+[29:23:38.819] Server  LOG      ✓ Compiled in 44ms
+[29:23:47.590] Server  LOG      ✓ Compiled in 7ms
+[29:25:22.704] Server  LOG      ✓ Compiled in 10ms
+[29:25:23.299] Browser ERROR   `legacyBehavior` is deprecated and will be removed in a future release. A codemod is available to upgrade your components:
+
+npx @next/codemod@latest new-link .
+
+Learn more: https://nextjs.org/docs/app/building-your-application/upgrading/codemods#remove-a-tags-from-link-components

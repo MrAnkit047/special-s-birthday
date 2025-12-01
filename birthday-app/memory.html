@@ -1,0 +1,74 @@
+vi<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photo and Video Memories</title>
+  <link rel="stylesheet" href="styles/globals.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Photo and Video Memories</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="wishes.html">View Wishes</a>
+      <a href="reply.html">Reply Message</a>
+    </nav>
+
+    <div class="memory-selector">
+      <button id="show-photos" class="memory-btn active">Photos</button>
+      <button id="show-videos" class="memory-btn">Videos</button>
+    </div>
+
+    <div id="photos-section">
+      <h2>Photos</h2>
+      <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+        <div class="photo-frame">
+          <img src="public/iri1.jpg" alt="Memory 1" width="200" height="200" style="border-radius: 15px; border: 2px solid #7C3AED;" />
+          <div class="photo-title">Our First Date</div>
+        </div>
+        <div class="photo-frame">
+          <img src="public/iri 2.jpg" alt="Memory 2" width="200" height="200" style="border-radius: 15px; border: 2px solid #7C3AED;" />
+          <div class="photo-title">Anniversary Trip</div>
+        </div>
+        <div class="photo-frame">
+          <img src="public/iri1.jpg" alt="Memory 3" width="200" height="200" style="border-radius: 15px; border: 2px solid #7C3AED;" />
+          <div class="photo-title">Candlelit Dinner</div>
+        </div>
+        <div class="photo-frame">
+          <img src="public/iri1.jpg" alt="Memory 4" width="200" height="200" style="border-radius: 15px; border: 2px solid #7C3AED;" />
+          <div class="photo-title">Sunset Walk</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="videos-section" style="margin-top: 30px; display: none;">
+      <h2>Audio</h2>
+      <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+        <div class="video-frame">
+          <audio controls style="border-radius: 15px; border: 2px solid #7C3AED;">
+            <source src="public/birthday-song.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+          </audio>
+          <div class="video-title">Our Dance</div>
+        </div>
+        <div class="video-frame">
+          <audio controls style="border-radius: 15px; border: 2px solid #7C3AED;">
+            <source src="public/birthday-song.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+          </audio>
+          <div class="video-title">Proposal Moment</div>
+        </div>
+        <div class="video-frame">
+          <audio controls style="border-radius: 15px; border: 2px solid #7C3AED;">
+            <source src="public/birthday-song.mp3" type="audio/mpeg">
+            Your browser does not support the audio tag.
+          </audio>
+          <div class="video-title">Travel Vlog</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="scripts/memory.js" defer></script>
+</body>
+</html>

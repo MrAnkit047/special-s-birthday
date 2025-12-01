@@ -1,0 +1,4 @@
+- [x] Update memory.html to display 4 photos with frames and titles in rounded rectangles below each photo
+- [x] Add 3 video placeholders
+- [x] Modify index.html to show 3 animated buttons after clicking 'Click below to view' and remove nav
+- [x] Add a clock on the first page showing 12 AM and date as Mangsir 18 (Nepali date)

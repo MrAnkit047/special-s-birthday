@@ -1,0 +1,61 @@
+nn<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reply Message</title>
+  <link rel="stylesheet" href="styles/globals.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Reply Message</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="wishes.html">View Wishes</a>
+      <a href="memory.html">View Memories</a>
+    </nav>
+
+    <form id="email-form" style="margin-top: 20px; max-width: 400px; margin: auto;">
+      <label for="name">Name</label><br/>
+      <input type="text" id="name" required style="width: 100%; padding: 8px; margin-bottom: 10px;" />
+
+      <label for="email">Your Email</label><br/>
+      <input type="email" id="email" required style="width: 100%; padding: 8px; margin-bottom: 10px;" />
+
+      <label for="message">Message</label><br/>
+      <textarea id="message" rows="4" required style="width: 100%; padding: 8px; margin-bottom: 10px;"></textarea>
+
+      <button type="button" onclick="sendToGmail()">Send via Email</button>
+    </form>
+
+    <p id="status" style="margin-top: 20px; font-weight: bold;"></p>
+  </div>
+  <script>
+    function sendToGmail() {
+      const name = document.getElementById('name').value.trim();
+      const email = document.getElementById('email').value.trim();
+      const message = document.getElementById('message').value.trim();
+      const statusEl = document.getElementById('status');
+
+      if (!name || !email || !message) {
+        statusEl.textContent = 'Please fill in all fields.';
+        return;
+      }
+
+      // Format the email content
+      const subject = `Happy Birthday Message from ${name}`;
+      const body = `Happy Birthday! 🎂\n\nFrom: ${name}\nEmail: ${email}\n\nMessage:\n${message}`;
+
+      // Create mailto URL
+      const mailtoUrl = `mailto:bashyalankit5@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+      // Open email client
+      window.location.href = mailtoUrl;
+
+      // Clear form and show success message
+      document.getElementById('email-form').reset();
+      statusEl.textContent = 'Email client opened! Please send the message to complete.';
+    }
+  </script>
+</body>
+</html>

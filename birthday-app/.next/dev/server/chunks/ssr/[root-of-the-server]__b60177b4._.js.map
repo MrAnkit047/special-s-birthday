@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///D:/Iru%27s%20Birthday/birthday-app/pages/index.js"],"sourcesContent":["import Link from 'next/link';\r\nimport '../styles/globals.css';\r\n\r\nexport default function Home() {\r\n  return (\r\n    <div className=\"container\">\r\n      <h1>Happy Birthday!</h1>\r\n      <nav>\r\n        <Link href=\"/wishes\"><a>View Wishes</a></Link>\r\n        <Link href=\"/memory\"><a>View Memory</a></Link>\r\n        <Link href=\"/reply\"><a>Reply Message</a></Link>\r\n      </nav>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;;;AAGe,SAAS;IACtB,qBACE,qKAAC;QAAI,WAAU;;0BACb,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;;kCACC,qKAAC,mJAAI;wBAAC,MAAK;kCAAU,cAAA,qKAAC;sCAAE;;;;;;;;;;;kCACxB,qKAAC,mJAAI;wBAAC,MAAK;kCAAU,cAAA,qKAAC;sCAAE;;;;;;;;;;;kCACxB,qKAAC,mJAAI;wBAAC,MAAK;kCAAS,cAAA,qKAAC;sCAAE;;;;;;;;;;;;;;;;;;;;;;;AAI/B"}}]
+}

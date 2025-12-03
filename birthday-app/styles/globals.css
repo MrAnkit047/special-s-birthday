@@ -84,6 +84,11 @@ button:hover {
   animation: pulse 2s infinite, glow 3s ease-in-out infinite alternate;
 }
 
+.wish-section.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 
 
 

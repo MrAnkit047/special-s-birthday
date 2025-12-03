@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
     element.className = type === 'gift' ? 'floating-gift' : 'floating-heart';
     element.textContent = type === 'gift' ? '🎁' : '❤️';
     element.style.left = Math.random() * 100 + 'vw';
-    element.style.animationDelay = Math.random() * 6 + 's';
+    element.style.animationDelay = Math.random() * 1 + 's';
     document.getElementById('floating-elements').appendChild(element);
 
     // Remove element after animation
@@ -60,4 +60,20 @@ document.addEventListener('DOMContentLoaded', function() {
     createFloatingElement('gift');
     setTimeout(() => createFloatingElement('heart'), 2000);
   }, 4000);
+
+  // Music toggle functionality
+  const musicToggle = document.getElementById('music-toggle');
+  const backgroundMusic = document.getElementById('background-music');
+
+  if (musicToggle && backgroundMusic) {
+    musicToggle.addEventListener('click', function() {
+      if (backgroundMusic.paused) {
+        backgroundMusic.play();
+        musicToggle.textContent = '⏸️';
+      } else {
+        backgroundMusic.pause();
+        musicToggle.textContent = '▶️';
+      }
+    });
+  }
 });

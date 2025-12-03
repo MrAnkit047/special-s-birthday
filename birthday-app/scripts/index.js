@@ -20,24 +20,7 @@ function revealSurprise() {
   }, 1000);
 }
 
-function showButtons() {
-  const buttonContainer = document.getElementById('animated-buttons');
-  buttonContainer.style.display = 'block';
-  const buttons = buttonContainer.querySelectorAll('button');
-  buttons.forEach((button, index) => {
-    button.style.opacity = '0';
-    button.style.transform = 'translateY(20px)';
-    setTimeout(() => {
-      button.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
-      button.style.opacity = '1';
-      button.style.transform = 'translateY(0)';
-    }, index * 200);
-  });
 
-  // Show hidden text after clicking "View Gift"
-  const hiddenText = document.getElementById('hidden-text');
-  hiddenText.style.display = 'block';
-}
 
 document.addEventListener('DOMContentLoaded', function() {
   // Function to create floating gifts and hearts

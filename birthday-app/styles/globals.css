@@ -49,101 +49,7 @@ h1 {
   100% { text-shadow: 0 0 20px #7C3AED, 0 0 30px #C084FC, 0 0 40px #F3E8FF; }
 }
 
-.clock-container {
-  background-color: #FFFFFF;
-  border-radius: 15px;
-  padding: 20px;
-  margin: 20px 0;
-  font-family: 'Poppins', sans-serif;
-  font-size: 1.5em;
-  color: #2E1065;
-  border: 2px solid #7C3AED;
-  text-align: center;
-  width: 100%;
-  box-sizing: border-box;
-}
 
-.analog-clock {
-  width: 200px;
-  height: 200px;
-  margin: 0 auto;
-}
-
-.clock-face {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  background-color: #FFFFFF;
-  border: 2px solid #7C3AED;
-}
-
-.hour-marks {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-}
-
-.hour-mark {
-  position: absolute;
-  width: 2px;
-  height: 10px;
-  background-color: #8c61db;
-  top: 10px;
-  left: 50%;
-  transform-origin: 50% 90px;
-  transform: rotate(var(--rotation));
-}
-
-.hour-hand, .minute-hand, .second-hand {
-  position: absolute;
-  left: 50%;
-  transform-origin: 50% 100px;
-}
-
-.hour-hand {
-  width: 4px;
-  height: 60px;
-  background-color: #2E1065;
-  top: 40px;
-  transform: rotate(0deg);
-}
-
-.minute-hand {
-  width: 3px;
-  height: 80px;
-  background-color: #2E1065;
-  top: 20px;
-  transform: rotate(0deg);
-}
-
-.second-hand {
-  width: 2px;
-  height: 90px;
-  background-color: #FF4081;
-  top: 10px;
-  transform: rotate(0deg);
-}
-
-.center-point {
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  background-color: #2E1065;
-  border-radius: 50%;
-  top: 95px;
-  left: 95px;
-}
-
-.clock-container .time {
-  font-weight: bold;
-  font-size: 2em;
-}
-
-.clock-container .date {
-  font-size: 1.2em;
-  margin-top: 10px;
-}
 
 button {
   background-color: #C084FC;
@@ -160,9 +66,7 @@ button:hover {
   background-color: #7C3AED;
 }
 
-.wish-sections {
-  margin: 20px 0;
-}
+
 
 .wish-section {
   background-color: #ffffff;
@@ -180,37 +84,13 @@ button:hover {
   animation: pulse 2s infinite, glow 3s ease-in-out infinite alternate;
 }
 
-.wish-section.visible {
-  opacity: 1;
-  transform: translateY(0);
-}
 
-.wish-section p {
-  margin: 0 0 10px 0;
-}
 
-.wish-section p:last-child {
-  margin-bottom: 0;
-}
 
-.message-container {
-  background-color: #FFFFFF;
-  border-radius: 15px;
-  padding: 10px;
-  margin: 20px auto;
-  font-family: 'Poppins', sans-serif;
-  font-size: 1.4em;
-  line-height: 1.4;
-  color: #2E1065;
-  border: 2px solid #7C3AED;
-  text-align: center;
-  max-width: 500px;
-  box-sizing: border-box;
-}
 
-.animated-box {
-  animation: pulse 2s infinite, glow 3s ease-in-out infinite alternate;
-}
+
+
+
 
 @keyframes pulse {
   0% { transform: scale(1); }
@@ -245,27 +125,7 @@ button:hover {
   100% { transform: translateY(-10vh) rotate(360deg); }
 }
 
-.confetti {
-  position: absolute;
-  width: 10px;
-  height: 10px;
-  background-color: #FF4081;
-  animation: confetti-fall 5s linear infinite;
-  opacity: 0.8;
-}
 
-.confetti:nth-child(odd) {
-  background-color: #7C3AED;
-}
-
-.confetti:nth-child(3n) {
-  background-color: #C084FC;
-}
-
-@keyframes confetti-fall {
-  0% { transform: translateY(-10vh) rotate(0deg); }
-  100% { transform: translateY(110vh) rotate(720deg); }
-}
 
 .photo-frame, .video-frame {
   display: flex;
@@ -313,19 +173,7 @@ button:hover {
   transform: scale(1.05);
 }
 
-.splash-screen {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: #040108;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 1000;
-  transition: opacity 0.5s ease;
-}
+
 
 .container {
   opacity: 1;
@@ -356,38 +204,11 @@ button:hover {
   transform: scale(1.05);
 }
 
-.popup {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 1000;
-}
 
-.popup-content {
-  background-color: #FFFFFF;
-  border-radius: 15px;
-  padding: 20px;
-  text-align: center;
-  font-family: 'Poppins', sans-serif;
-  font-size: 1.2em;
-  color: #2E1065;
-  border: 2px solid #7C3AED;
-  position: relative;
-}
 
-.close-btn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  font-size: 1.5em;
-  cursor: pointer;
-}
+
+
+
 
 /* Hero Section */
 .hero-section {
